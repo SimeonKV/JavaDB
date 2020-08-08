@@ -17,19 +17,19 @@ public class Main {
 
         Answer answerOne = new Answer();
         answerOne.setAnswerName("Java is a programing lang");
-        answerOne.setPostedBy("Ravi Malik");
+        answerOne.setPostedBy("Person One");
 
         Answer answerTwo = new Answer();
         answerTwo.setAnswerName("Java is a platform");
-        answerTwo.setPostedBy("Sudhir Kumar");
+        answerTwo.setPostedBy("Person Two");
 
         Answer answerThree = new Answer();
         answerThree.setAnswerName("Servlet is an interface");
-        answerThree.setPostedBy("Jai Kumar");
+        answerThree.setPostedBy("Person Four");
 
         Answer answerFour = new Answer();
         answerFour.setAnswerName("Servlet is an API");
-        answerFour.setPostedBy("Arun");
+        answerFour.setPostedBy("Person Three");
 
 
         List<Answer> listOne = new ArrayList<>();
